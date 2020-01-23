@@ -1,0 +1,22 @@
+{
+    "name": "Submission 2",
+    "gcmAPIKey": "970533837091",
+    "short_name": "App Football",
+    "description": "MPWA Annisaa NH",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f48fb1",
+    "theme_color": "#f48fb1",
+    "icons": [
+        {
+          "src": "soccer.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+            "src": "soccer.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
